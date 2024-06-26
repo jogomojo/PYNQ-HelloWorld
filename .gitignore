@@ -36,6 +36,7 @@ tests/*.out
 # Python cache files
 ######################
 __pycache__/
+.ipynb_checkpoints
 
 # Customized Makefile/project overrides
 ######################
@@ -47,3 +48,4 @@ user.props
 *.bit
 *.hwh
 *.xclbin
+*.xsa
